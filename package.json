@@ -1,0 +1,17 @@
+{
+  "name": "itw-creative-works-video-editor",
+  "version": "1.0.0",
+  "description": "video-editor ",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "Video Editor",
+  "license": "ISC",
+  "homepage": "https://_videoeditor.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itw-creative-works/video-editor.git"
+  }
+}
